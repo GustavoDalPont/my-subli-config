@@ -18,7 +18,7 @@ git reset --hard origin/master
 ```
 cd ~/.config/sublime-text-3/Packages
 git init
-git remote add origin git://github.com/sirgallifrey/my-sublime-confs.git
+git remote add https://github.com/GustavoDalPont/my-subli-config.git
 git fetch
 git reset --hard origin/master
 ```
