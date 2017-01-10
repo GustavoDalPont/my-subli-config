@@ -1,0 +1,14 @@
+# Ignore everything...
+*
+# ... except preferences
+!.gitignore
+!readme.md
+
+!User/
+
+!User/Preferences.sublime-settings
+!User/unAutoSemiColon.sublime-macro
+!User/SublimeCodeIntel.sublime-settings
+!User/Package Control.sublime-settings
+!User/Terminal.sublime-settings
+!User/Default (Linux).sublime-keymap
