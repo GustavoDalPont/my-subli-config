@@ -7,8 +7,8 @@
 ```
 cd ~/.config/sublime-text-3/Packages
 git init
-git remote add origin git@github.com:GustavoDalPont/my-subli-config.git 
-# https://github.com/GustavoDalPont/my-subli-config.git
+git remote add origin git@github.com:gustavodpont/my-subli-config.git 
+# https://github.com/gustavodpont/my-subli-config.git
 git fetch
 git reset --hard origin/master
 ```
@@ -18,7 +18,7 @@ git reset --hard origin/master
 ```
 cd ~/.config/sublime-text-3/Packages
 git init
-git remote add https://github.com/GustavoDalPont/my-subli-config.git
+git remote add https://github.com/gustavodpont/my-subli-config.git
 git fetch
 git reset --hard origin/master
 ```
